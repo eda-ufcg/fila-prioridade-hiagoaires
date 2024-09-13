@@ -1,8 +1,8 @@
 # Identificação
 
-* Nome: 
-* Email (@ccc): 
-* Matrícula: 
+* Nome: Hiago Aires 
+* Email (@ccc): hiago.emanuel.aires.diniz@ccc.ufcg.edu.br
+* Matrícula: 122110390
 
 # Roteiro: Fila de Prioridade
 
